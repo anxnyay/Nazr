@@ -20,7 +20,6 @@ Commuters in Mumbai autos are overstimulated by traffic noise and rarely look up
 ESP32 (CrowPanel 3.5" HMI display), HC-SR04 ultrasonic sensor, SG90 servo, 5 V power bank; Arduino IDE; enclosure modelled in FreeCAD and Blender (with Meshy AI for final touches), 3D printed, drilled and spray-painted; UI designed in Figma; branding in Adobe CC.
 
 ## My part
-Confirmed by the residency letter:
 - Field research (interviews and observation) and identifying the key themes.
 - Brand identity, and the concept of the physical component and user journey.
 - Wiring, and AI-assisted coding and testing, of the sensor, display and servo (about 80 h of firmware and hardware prototyping).
