@@ -6,7 +6,6 @@ Built by a team of three in the **Play It Forward creator residency (Kulfi Colle
 
 **Live app:** [https://www.nazarit.in/]
 **Instagram documentation (Kulfi Collective):** [https://www.instagram.com/reel/DfXCkF8tEoX/?utm_source=ig_web_copy_link&jplx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==)]
-**Full case study (design portfolio):** [PORTFOLIO LINK]
 
 ## The idea
 Commuters in Mumbai autos are overstimulated by traffic noise and rarely look up. NAZR gives them one prompt a day for the whole city, for example "an object wearing a disguise", and asks them to answer it with a photo from the street. Riders can then see how other people interpreted the same prompt.
