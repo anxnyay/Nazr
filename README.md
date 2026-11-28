@@ -4,8 +4,9 @@ A daily riddle game that turns a Mumbai auto-rickshaw commute into a way of noti
 
 Built by a team of three in the **Play It Forward creator residency (Kulfi Collective x Maker's Asylum), Mumbai, 15 Aug to 18 Oct 2026**. Showcased at the Kulfi Collective HQ on 16 October 2026.
 
-**Live app:** [https://www.nazarit.in/]
-**Instagram documentation (Kulfi Collective):** [https://www.instagram.com/reel/DfXCkF8tEoX/?utm_source=ig_web_copy_link&jplx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==)]
+**Live app:** https://www.nazarit.in/
+**Instagram documentation (Kulfi Collective):** https://www.instagram.com/p/DfXCkF8tEoX/
+**Instagram documentation (Maker's Asylum):** https://www.instagram.com/p/DgPyrd8hbwm/
 
 ## The idea
 Commuters in Mumbai autos are overstimulated by traffic noise and rarely look up. NAZR gives them one prompt a day for the whole city, for example "an object wearing a disguise", and asks them to answer it with a photo from the street. Riders can then see how other people interpreted the same prompt.
